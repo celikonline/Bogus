@@ -1,0 +1,13 @@
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.exe
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.csprojAssemblyReference.cache
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.AssemblyInfoInputs.cache
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.AssemblyInfo.cs
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.deps.json
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.runtimeconfig.json
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.runtimeconfig.dev.json
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.dll
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\BogusDeneme.pdb
+C:\github\BogusDeneme\BogusDeneme\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.csproj.CopyComplete
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.dll
+C:\github\BogusDeneme\BogusDeneme\obj\Debug\netcoreapp3.1\BogusDeneme.pdb
